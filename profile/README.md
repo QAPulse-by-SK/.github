@@ -265,6 +265,7 @@ Every repo has a `CONTRIBUTING.md`. PRs reviewed within 48 hours.
 | 🛠️ **QA Consulting Services** | [skakarh.com/services](https://www.skakarh.com/services/) |
 | 🏢 **GitHub Organisation** | [github.com/QAPulse-by-SK](https://github.com/QAPulse-by-SK) |
 | 🎎 **Playwright Boilerplate** | [github.com/QAPulse-by-SK/playwright-boilerplate](https://github.com/QAPulse-by-SK/playwright-boilerplate) |
+| 🐍 **Selenium Boilerplate** | [github.com/QAPulse-by-SK/selenium-boilerplate](https://github.com/QAPulse-by-SK/selenium-boilerplate) |
 | 🌲 **Cypress Boilerplate** | [github.com/QAPulse-by-SK/cypress-boilerplate](https://github.com/QAPulse-by-SK/cypress-boilerplate) |
 | 📦 **qapulsesk-assert** | [npmjs.com/package/qapulsesk-assert](https://www.npmjs.com/package/qapulsesk-assert) |
 | 📊 **qapulsesk-report** | [npmjs.com/package/qapulsesk-report](https://www.npmjs.com/package/qapulsesk-report) |
