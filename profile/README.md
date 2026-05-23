@@ -252,3 +252,18 @@ Every repo has a `CONTRIBUTING.md`. PRs reviewed within 48 hours.
 *Built with ❤️ by [QA Pulse by SK](https://www.skakarh.com)*
 
 </div>
+
+## 🌐 More from QA Pulse by SK
+
+| | |
+|---|---|
+| 🌐 **Website** | [www.skakarh.com](https://www.skakarh.com) |
+| 📦 **All Open Source Products** | [skakarh.com/products](https://www.skakarh.com/products/) |
+| ✍️ **QA Automation Blog** | [skakarh.com/blog](https://www.skakarh.com/blog/) |
+| 🛠️ **QA Consulting Services** | [skakarh.com/services](https://www.skakarh.com/services/) |
+| 🏢 **GitHub Organisation** | [github.com/QAPulse-by-SK](https://github.com/QAPulse-by-SK) |
+| 🎎 **Playwright Boilerplate** | [github.com/QAPulse-by-SK/playwright-boilerplate](https://github.com/QAPulse-by-SK/playwright-boilerplate) |
+| 🌲 **Cypress Boilerplate** | [github.com/QAPulse-by-SK/cypress-boilerplate](https://github.com/QAPulse-by-SK/cypress-boilerplate) |
+| 📦 **qapulsesk-assert** | [npmjs.com/package/qapulsesk-assert](https://www.npmjs.com/package/qapulsesk-assert) |
+| 📊 **qapulsesk-report** | [npmjs.com/package/qapulsesk-report](https://www.npmjs.com/package/qapulsesk-report) |
+| 🤖 **qapulsesk-gen** | [npmjs.com/package/qapulsesk-gen](https://www.npmjs.com/package/qapulsesk-gen) |
