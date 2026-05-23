@@ -253,6 +253,8 @@ Every repo has a `CONTRIBUTING.md`. PRs reviewed within 48 hours.
 
 </div>
 
+---
+
 ## 🌐 More from QA Pulse by SK
 
 | | |
